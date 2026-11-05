@@ -1,0 +1,37 @@
+[
+  {
+    "name": "p768lwy3/torecsys",
+    "url": "https://github.com/p768lwy3/torecsys",
+    "description": "ToR[e]cSys is a PyTorch Framework to implement recommendation system algorithms, including but not limited to click-through-rate (CTR) prediction, learning-to-ranking (LTR), and Matrix/Tensor Embedding. The project objective is to develop an ecosystem to experiment, share, reproduce, and deploy in real-world in a smooth and easy way.",
+    "stars": 106,
+    "license": "MIT"
+  },
+  {
+    "name": "SGCODEX/Music-Recommendation-Using-Facial-Expressions",
+    "url": "https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions",
+    "description": "This Python-based AI project utilizes OpenCV for facial recognition and a pre-trained deep learning model to analyze facial expressions. By identifying your current mood, the system leverages YouTube's search capabilities to recommend music that aligns with your emotions.",
+    "stars": 61,
+    "license": "MIT"
+  },
+  {
+    "name": "jw995/AIML-recommanding-system-project",
+    "url": "https://github.com/jw995/AIML-recommanding-system-project",
+    "description": "A general movie recommending system involving python, numpy, sklearn, pandas. Applied feature-based modeling, content-based filtering, collaborative filtering and clustering method. Provided hybrid online/offline movie recommendations for anonymous users, new users (cold-start) and old users.",
+    "stars": 21,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "amanantuley/Course_Recommendation_System",
+    "url": "https://github.com/amanantuley/Course_Recommendation_System",
+    "description": " \ud83d\ude80 Course Recommendation System is a machine learning-based project that suggests personalized courses using Coursera dataset analysis. It leverages content-based and collaborative filtering techniques to provide accurate recommendations. Built with Python, pandas, scikit-learn, and Jupyter Notebook",
+    "stars": 16,
+    "license": "MIT"
+  },
+  {
+    "name": "vivek1m/Algo-Trade",
+    "url": "https://github.com/vivek1m/Algo-Trade",
+    "description": "Algo Trader - Stock Price Predictor \ud83d\udcc8 An intelligent stock recommendation system that helps users make investment decisions based on their investment amount, risk tolerance, and tenure. The project leverages Python, Pandas, Matplotlib, and Tkinter to analyze stock data and provide insightful recommendations through an interactive GUI. ",
+    "stars": 12,
+    "license": "NOASSERTION"
+  }
+]
